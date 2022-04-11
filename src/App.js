@@ -101,7 +101,7 @@ function App() {
                     onToggle={toggleHandler}
                   />
                 ) : (
-                  "No Task to Do!"
+                  "No Task to Show!"
                 )}
               </>
             }
